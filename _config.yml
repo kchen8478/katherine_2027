@@ -14,12 +14,12 @@
 #   in _config.yml. It will appear in your document head meta (for Google search
 #   results) and in your feed.xml site description.
 
-title: Open Coding 
-description: "Class of 2026"
-owner_name: John Mortensen
-github_username: jm1021 
-github_repo: "portfolio" 
-baseurl: "/portfolio" 
+title: Katherine's Portfolio
+description: "Class of 2027"
+owner_name: Katherine Chen
+github_username: kchen8478 
+github_repo: "katherine_2027" 
+baseurl: "/katherine_2027" 
 future: true
 
 # Build settings

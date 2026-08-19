@@ -5,7 +5,11 @@ hide: true
 show_reading_time: false
 ---
 
-Hi! My name is [Your Full Name]
+Hi! My name is Katherine
+
+### AP CSA Prep 
+<a href="{{site.baseurl}}/game/essentials/variables" > </a>
+
 
 ### Development Environment
 
@@ -67,7 +71,7 @@ Hi! My name is [Your Full Name]
 
 > Here is my game progress through coding, click to see these in the browser
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gapj: 10px;">
     <a href="{{site.baseurl}}/snake" class="btn">
         Snake
     </a>
