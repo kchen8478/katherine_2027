@@ -8,7 +8,7 @@ show_reading_time: false
 Hi! My name is Katherine
 
 ### AP CSA Prep 
-<a href="{{site.baseurl}}/game/essentials/variables" > </a>
+<a href="{{site.baseurl}}/csalessons/coderunner" > Code Runners </a>
 
 
 ### Development Environment
