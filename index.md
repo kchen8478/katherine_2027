@@ -66,24 +66,3 @@ Hi! My name is Katherine
 </div>
 
 <br>
-
-### Class Progress
-
-> Here is my game progress through coding, click to see these in the browser
-
-<div style="display: flex; flex-wrap: wrap; gapj: 10px;">
-    <a href="{{site.baseurl}}/snake" class="btn">
-        Snake
-    </a>
-    <a href="{{site.baseurl}}/gamify/parallax" class="btn" style="background-color: var(--green); ">
-        Fish
-    </a>
-    <a href="{{site.baseurl}}/gamify" class="btn" style="background-color: var(--teal);">
-       Gamify
-    </a>
-    <a href="{{site.baseurl}}/cs-pathway" class="btn" style="background-color: var(--orange);">
-       CS Pathway
-    </a>
-</div>
-
-<br>
