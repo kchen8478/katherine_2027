@@ -3,6 +3,13 @@
  * Override default code and text formatting with user preferences
  */
 
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+/** Base text font */
+body {
+  font-family: "EB Garamond", Georgia, "Times New Roman", serif;
+}
+
 /** Code formatting - override hardcoded dark background */
 pre, code {
   font-family: "Menlo", "Inconsolata", "Consolas", "Roboto Mono", "Ubuntu Mono", "Liberation Mono", "Courier New", monospace;
