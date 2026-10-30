@@ -151,6 +151,51 @@ Hi! My name is Katherine
 
 </div>
 
+### CSA System Lessons
+
+<div style="display: flex; flex-wrap: wrap; gap: 15px; color: white;">
+
+  <a href="{{site.baseurl}}/csalessons/jwtcookies">
+    <button class="button">
+      JWT + Cookies
+      <svg class="icon" viewBox="0 0 24 24" fill="currentColor">
+        <path
+          fill-rule="evenodd"
+          d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z"
+          clip-rule="evenodd"
+        ></path>
+      </svg>
+    </button>
+  </a>
+
+  <a href="{{site.baseurl}}/csalessons/pipelinestate">
+    <button class="button">
+      AI Pipelines + State
+      <svg class="icon" viewBox="0 0 24 24" fill="currentColor">
+        <path
+          fill-rule="evenodd"
+          d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z"
+          clip-rule="evenodd"
+        ></path>
+      </svg>
+    </button>
+  </a>
+
+  <a href="{{site.baseurl}}/csalessons/sassutilities">
+    <button class="button">
+      SASS Utilities
+      <svg class="icon" viewBox="0 0 24 24" fill="currentColor">
+        <path
+          fill-rule="evenodd"
+          d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z"
+          clip-rule="evenodd"
+        ></path>
+      </svg>
+    </button>
+  </a>
+
+</div>
+
 
 ### Development Environment
 
@@ -216,6 +261,45 @@ Hi! My name is Katherine
   <a href="{{site.baseurl}}/phase1">
     <button class="button">
       PHASE 1 (10/21)
+      <svg class="icon" viewBox="0 0 24 24" fill="currentColor">
+        <path
+          fill-rule="evenodd"
+          d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z"
+          clip-rule="evenodd"
+        ></path>
+      </svg>
+    </button>
+  </a>
+
+  <a href="{{site.baseurl}}/retro/sprint1">
+    <button class="button">
+      Sprint 1 Retro
+      <svg class="icon" viewBox="0 0 24 24" fill="currentColor">
+        <path
+          fill-rule="evenodd"
+          d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z"
+          clip-rule="evenodd"
+        ></path>
+      </svg>
+    </button>
+  </a>
+
+  <a href="{{site.baseurl}}/retro/sprint2">
+    <button class="button">
+      Sprint 2 Retro
+      <svg class="icon" viewBox="0 0 24 24" fill="currentColor">
+        <path
+          fill-rule="evenodd"
+          d="M12 2.25c-5.385 0-9.75 4.365-9.75 9.75s4.365 9.75 9.75 9.75 9.75-4.365 9.75-9.75S17.385 2.25 12 2.25zm4.28 10.28a.75.75 0 000-1.06l-3-3a.75.75 0 10-1.06 1.06l1.72 1.72H8.25a.75.75 0 000 1.5h5.69l-1.72 1.72a.75.75 0 101.06 1.06l3-3z"
+          clip-rule="evenodd"
+        ></path>
+      </svg>
+    </button>
+  </a>
+
+  <a href="{{site.baseurl}}/retro/cb-mcq">
+    <button class="button">
+      CB MCQ Retro
       <svg class="icon" viewBox="0 0 24 24" fill="currentColor">
         <path
           fill-rule="evenodd"
